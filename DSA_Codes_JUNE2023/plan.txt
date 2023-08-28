@@ -1,0 +1,15 @@
+
+16
+2d arrays questions
+reference var, static/dynamic memory
+recursion
+
+10 Btech
+Array
+
+9-06-2023
+while, do while
+break continue
+functions eg and power question
+call by value
+reference and pointers

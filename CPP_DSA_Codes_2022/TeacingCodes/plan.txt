@@ -1,0 +1,56 @@
+30-01-2023
+Stacks using LL
+Infix prefix and postfix
+
+
+28-01-2023
+Ques of LL
+Stack intro
+
+27-01-2023
+Doubly LL
+Circular LL
+Intersection problem
+
+23
+Selecetion sort revision
+Bubble sort
+Linear and binary search
+Intro to linked list;
+
+23-01-2023
+Memory allocation revision
+Recursion explanation with example
+Time and space complexities
+Selection sort
+
+21
+
+20-1-2023
+File i/o
+Templates
+exception handling
+
+
+19-01-2023
+revision
+pointers
+vectors
+
+18-01-2023
+Polymorphism
+Encapsulation
+Abstraction
+Namespaces
+
+17-01-2023
+Inheritance remaining types
+Memory managment
+Polymorphism
+
+
+16-01-2023
+Friend class
+Inheritance (3 types)
+polymorphism
+operator and function overloading
